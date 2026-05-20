@@ -105,6 +105,7 @@ Three questions drive the entire analysis:
 ---
 
 ## Project Structure
+```
 olist-analysis/
 ├── README.md
 ├── sql/
@@ -116,6 +117,7 @@ olist-analysis/
 │   └── olist_dashboard.pbix
 └── report/
 └── olist_executive_summary.pdf
+```
 ---
 
 ## Tech Stack
