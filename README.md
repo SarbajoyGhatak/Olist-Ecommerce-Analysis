@@ -157,10 +157,10 @@ olist-analysis/
 ## Dashboard Preview
 
 ```
-![Revenue Overview](screenshots/page1_revenue.png)
-![Category Analysis](screenshots/page2_categories.png)
-![Delivery Performance](screenshots/page3_delivery.png)
-![Courier Performance](screenshots/page4_courier.png)
+![Revenue Overview](screenshots/Screenshot%20(165).png)
+![Category Analysis](screenshots/Screenshot%20(166).png)
+![Delivery Performance](screenshots/Screenshot%20(167).png)
+![Courier Performance](screenshots/Screenshot%20(168).png)
 ```
 ---
 
