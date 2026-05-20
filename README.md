@@ -156,12 +156,12 @@ olist-analysis/
 - Inter-state vs intra-state comparison
 ## Dashboard Preview
 
-```
+
 ![Revenue Overview](screenshots/Screenshot%20(165).png)
 ![Category Analysis](screenshots/Screenshot%20(166).png)
 ![Delivery Performance](screenshots/Screenshot%20(167).png)
 ![Courier Performance](screenshots/Screenshot%20(168).png)
-```
+
 ---
 
 ## Data Cleaning Summary
