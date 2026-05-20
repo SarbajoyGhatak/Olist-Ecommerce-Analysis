@@ -154,7 +154,12 @@ olist-analysis/
 - Customer rating vs fault type scatter
 - Fault type donut (courier vs seller split)
 - Inter-state vs intra-state comparison
+## Dashboard Preview
 
+![Revenue Overview](screenshots/Screenshot (165).png)
+![Category Analysis](screenshots/Screenshot (166).png)
+![Delivery Performance](screenshots/Screenshot (167).png)
+![Courier Performance](screenshots/Screenshot (168).png)
 ---
 
 ## Data Cleaning Summary
